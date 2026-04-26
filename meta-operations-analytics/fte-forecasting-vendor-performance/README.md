@@ -76,6 +76,16 @@ Daily View → Team Leads
 FTE Forecasting → Workforce Planning
 
 📊 Dashboard Overview
+
+### Executive Summary
+![Executive Summary](transferir%20(1).jpeg)
+
+### Vendor & City Performance
+![Vendor Performance](transferir%20(2).jpeg)
+
+### Daily View
+![Daily View](transferir%20(3).jpeg)
+
 1. Executive Summary Dashboard
 Shows:
 
