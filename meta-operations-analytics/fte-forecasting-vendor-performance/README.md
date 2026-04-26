@@ -167,4 +167,4 @@ Snowflake / BigQuery / Hive (depending on environment)
   [stf_guidance.sql](./sql/stf_guidance.sql)
 
 - *LTF Forecast Query*  
-  [ltf_forecast.sql](./sql/ltf_forecast.sql)
+  [ltf_forecast.sql](./sql/lltf_guidance.sql)
